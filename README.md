@@ -1,2 +1,5 @@
 # DAT505-Code
-##section1
+##section
+
+Li Xueyi
+B161006072
